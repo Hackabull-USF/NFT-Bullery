@@ -126,7 +126,7 @@ On Ethereum, smart contracts are accessible and transparent â€“ like open APIs â
 - Frontend 
   - React
   - TypeScript
-  - Charkre UI
+  - Charkra UI
 
 - Deployment
   - GitHub Page
