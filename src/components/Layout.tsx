@@ -6,27 +6,27 @@ const Layout: FC = ({ children }) => {
   return (
     <Stack h="100vh">
       <Flex
-        bg="purple.200"
+        bg="#226F54"
         p={4}
         justifyContent="space-around"
         alignItems="center"
       >
         <Box>
-          <Text fontWeight="bold">Animals</Text>
+          <Text fontWeight="bold" style={{ fontSize: 30, color: "#F4F0BB" }}>BULLery</Text>
         </Box>
         <Link to="/">
-          <Button size="sm" colorScheme="blue">
-            Main
+          <Button size="sm" colorScheme="green">
+            Mint NFT
           </Button>
         </Link>
         <Link to="my-animal">
-          <Button size="sm" colorScheme="red">
-            My Animal
+          <Button size="sm" colorScheme="green">
+            My NFT
           </Button>
         </Link>
         <Link to="sale-animal">
           <Button size="sm" colorScheme="green">
-            Sale Animal
+            Sale NFT
           </Button>
         </Link>
       </Flex>
@@ -41,5 +41,6 @@ const Layout: FC = ({ children }) => {
     </Stack>
   );
 };
+
 
 export default Layout;

@@ -88,7 +88,7 @@ const MyAnimal: FC<MyAnimalProps> = ({ account }) => {
         <Button
           size="xs"
           ml={2}
-          colorScheme={saleStatus ? "red" : "blue"}
+          colorScheme={saleStatus ? "red" : "green"}
           onClick={onClickApproveToggle}
         >
           {saleStatus ? "Cancel" : "Approve"}

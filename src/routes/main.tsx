@@ -50,10 +50,10 @@ const Main: FC<MainProps> = ({ account }) => {
             {newAnimalType ? (
               <AnimalCard animalType={newAnimalType} />
             ) : (
-              <Text>Let's mint Animal Card!!!</Text>
+              <Text>Let's mint Bull NFT to Bullary!</Text>
             )}
           </Box>
-          <Button mt={4} size="sm" colorScheme="blue" onClick={onClickMint}>
+          <Button mt={4} size="sm" colorScheme="green" onClick={onClickMint}>
             Mint
           </Button>
         </Flex>
