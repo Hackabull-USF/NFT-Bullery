@@ -152,7 +152,8 @@ On Ethereum, smart contracts are accessible and transparent – like open APIs �
 
 ## ​:seven:​ Contributors
 ```
-👉 Introduce team members and contribution
+👉 Introduce team members and contribution 
+We worked together in most of parts, but put more time and be specified in each part
 ```
 <table class="tg">
 <tbody>
