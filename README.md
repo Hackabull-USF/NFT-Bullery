@@ -13,10 +13,11 @@
 
 [:one:​ Inspiration](#one-inspiration)<br>
 [:two:​ User Stories](#five-user-stories)<br>
-[:three:​ Package Structure](#two-package-structure)<br>
-[:four:​ Technologies](#two-technologies)<br>
-[:five:​ What We Learned](#two-what-we-learned)<br>
-[:six:​ Contributors](#two-contributor)<br>
+[:three:​ User Stories](#five-user-stories)<br>
+[:four:​ Package Structure](#two-package-structure)<br>
+[:five:​ Technologies](#two-technologies)<br>
+[:six:​ What We Learned](#two-what-we-learned)<br>
+[:seven:​ Contributors](#two-contributor)<br>
 
 <br>
 
@@ -65,8 +66,9 @@ A decentralized application (DApp) is an application built on a decentralized ne
 On Ethereum, smart contracts are accessible and transparent – like open APIs – so your DApp can even include a smart contract that someone else has written. 
 ```
 
+## ​:three:​ [Demo Video]()
 
-## ​:three:​ Package Structure
+## ​:four:​ Package Structure
 ```
 📦 contracts
  ┣ 📂 node_modules
@@ -109,7 +111,7 @@ On Ethereum, smart contracts are accessible and transparent – like open APIs �
 [📂 SaleAnimalToken.sol](https://github.com/Hackabull2022/NFT-Bullery/wiki/SaleAnimalToken.sol)
 <br>
 
-## ​:four:​ Technologies
+## ​:five:​ Technologies
 ```
 👉 Technologies Used for Bullery Project
 ```
@@ -132,7 +134,7 @@ On Ethereum, smart contracts are accessible and transparent – like open APIs �
   - Git
 <br>
 
-## ​:five:​ What We Learned
+## ​:six:​ What We Learned
 ### Challenges we ran into
 - Building an NFT website was challenging since it was our first time experiencing Solidity. We have read the docs regarding the concept of Solidity, Smart Contract, DApp, and BlockChain in general and referred to some YouTube videos to implement the NFT backend part.
 - In addition to constructing the NFT backend portion, connecting React frontend part to the backend was struggling. We have utilized Charkre UI in order to reduce some time to design the web frontend and Web3.js to connect both ends.
@@ -146,7 +148,7 @@ On Ethereum, smart contracts are accessible and transparent – like open APIs �
 - We were able to know how to work on a project as a group (utilizing Git and GitHub - creating branch, merge, pull request, etc)
 <br >
 
-## ​:six:​ Contributors
+## ​:seven:​ Contributors
 ```
 👉 Introduce team members and contribution
 ```
