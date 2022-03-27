@@ -1,7 +1,7 @@
 # 🐮 Bullery
 > User can upload, sell, and buy Bull NFT artworks
 
-![img](https://github.com/Hackabull2022/NFT-Bullery)
+![img](https://github.com/Hackabull2022/NFT-Bullery/blob/master/Bullery.PNG)
 
 
 - USF 4th Hackabull **Team Bullery**​
@@ -95,6 +95,9 @@ Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this 
  ┗ 📂 tsconfig.json
  
 ```
+
+[📂 MintAnimalToken.sol](https://github.com/Hackabull2022/NFT-Bullery/wiki/MintAnimalToken.sol)
+[📂 SaleAnimalToken.sol](https://github.com/Hackabull2022/NFT-Bullery/wiki/SaleAnimalToken.sol)
 <br>
 
 ## ​:four:​ Technologies
