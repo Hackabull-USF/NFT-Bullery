@@ -13,7 +13,7 @@
 
 [:one:​ Inspiration](#one-inspiration)<br>
 [:two:​ User Stories](#five-user-stories)<br>
-[:three:​ User Stories](#five-user-stories)<br>
+[:three:​ Demo Video](#one-demo-video)<br>
 [:four:​ Package Structure](#two-package-structure)<br>
 [:five:​ Technologies](#two-technologies)<br>
 [:six:​ What We Learned](#two-what-we-learned)<br>
