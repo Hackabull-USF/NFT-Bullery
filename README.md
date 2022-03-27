@@ -18,9 +18,15 @@
 [:five:​ What We Learned](#two-what-we-learned)<br>
 [:six:​ Contributors](#two-contributor)<br>
 
+<br>
+
 ## ​:one:​ Inspiration
 ```
-Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this year. From art and music, these digital assets are even selling some for millions of dollars. This NFT can protect the license of the digital artwork using BlockChain technology with its unique identifying codes. These characteristics that NFTs are unique, irreplaceable, and provide exclusive ownership on the blockchain blew our mind and trigger us to learn and implement a small project using the idea of NFT.
+Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this year. 
+From art and music, these digital assets are even selling some for millions of dollars. 
+This NFT can protect the license of the digital artwork using BlockChain technology with its unique identifying codes. 
+These characteristics that NFTs are unique, irreplaceable, and provide exclusive ownership on the blockchain 
+blew our mind and trigger us to learn and implement a small project using the idea of NFT.
 ```
 
 ## ​:two:​ User Stories
@@ -54,7 +60,10 @@ Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this 
 </table>
 
 - DApp explained
-``` A decentralized application (DApp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your DApp can even include a smart contract that someone else has written. ```
+``` 
+A decentralized application (DApp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. 
+On Ethereum, smart contracts are accessible and transparent – like open APIs – so your DApp can even include a smart contract that someone else has written. 
+```
 
 
 ## ​:three:​ Package Structure
