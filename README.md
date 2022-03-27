@@ -1,29 +1,29 @@
-# Bullery
+# 🐮 Bullery
 > User can upload, sell, and buy Bull NFT artworks
 
-![img](https://github.com/Hackabull2022/NFT-Bullery/blob/master/Bullery.PNG)
+![img](https://github.com/Hackabull2022/NFT-Bullery)
 
 
-- SOPT 27th AppJam **Team MyDaily**​:seedling:
-- 프로젝트 기간 : `2020.12.26` ~ `2021.01.16`
-
+- USF 4th Hackabull **Team Bullery**​
+- Period : `2022.03.26` ~ `2022.03.27`
 
 <br>
 
-# :green_book:​Contents
+# ​Contents
 
-[:one:​ Specification](#one-specification)<br>
-[:two:​ Flow Chart](#two-flow-chart)<br>
-[:three:​ Package Structure](#three-package-structure)<br>
-[:four:​ WIKI](#four-wiki)<br>
-[:five:​ 핵심 기능 구현 방법 설명](#five-핵심-기능-구현-방법-설명)<br>
-[:six:​ Contributor](#six-contributor)<br>
+[:one:​ Inspiration](#one-inspiration)<br>
+[:two:​ User Stories](#five-user-stories)<br>
+[:three:​ Package Structure](#two-package-structure)<br>
+[:four:​ Technologies](#two-technologies)<br>
+[:five:​ What We Learned](#two-what-we-learned)<br>
+[:six:​ Contributors](#two-contributor)<br>
 
-## Inspiration
+## ​:one:​ Inspiration
+```
 Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this year. From art and music, these digital assets are even selling some for millions of dollars. This NFT can protect the license of the digital artwork using BlockChain technology with its unique identifying codes. These characteristics that NFTs are unique, irreplaceable, and provide exclusive ownership on the blockchain blew our mind and trigger us to learn and implement a small project using the idea of NFT.
+```
 
-## What it does
-- User Stories
+## ​:two:​ User Stories
 <table class="tg">
 <tbody>
   <tr>
@@ -56,8 +56,8 @@ Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this 
 - DApp explained
 ``` A decentralized application (DApp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your DApp can even include a smart contract that someone else has written. ```
 
-## How we built it
-### Package Structure
+
+## ​:three:​ Package Structure
 ```
 📦 contracts
  ┣ 📂 node_modules
@@ -93,9 +93,11 @@ Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this 
  ┣ 📂 package-lock.json
  ┣ 📂 package.json
  ┗ 📂 tsconfig.json
+ 
 ```
 <br>
-### Technologies
+
+## ​:four:​ Technologies
 ```
 👉 Technologies Used for Bullery Project
 ```
@@ -118,7 +120,21 @@ Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this 
   - Git
 <br>
 
-### Contributors
+## ​:five:​ What We Learned
+### Challenges we ran into
+- Building an NFT website was challenging since it was our first time experiencing Solidity. We have read the docs regarding the concept of Solidity, Smart Contract, DApp, and BlockChain in general and referred to some YouTube videos to implement the NFT backend part.
+- In addition to constructing the NFT backend portion, connecting React frontend part to the backend was struggling. We have utilized Charkre UI in order to reduce some time to design the web frontend and Web3.js to connect both ends.
+ 
+### Accomplishments that we're proud of
+- We are proud that we could implement a fully functioning web application that the user can mint, set a price, sell, and buy their NFT with a few clicks.
+- We are proud that we collaborated utilizing Git and GitHub for the team project and be part of USF's 4th Hackathon, participating in a team project and several workshops and managing the limited time.
+
+### What we learned
+- We were able to understand how BlockChain works in the backend by doing debugging on Remix Ethereum IDE
+- We were able to know how to work on a project as a group (utilizing Git and GitHub - creating branch, merge, pull request, etc)
+<br >
+
+## ​:six:​ Contributors
 ```
 👉 Introduce team members and contribution
 ```
@@ -140,27 +156,3 @@ Recently, NFT (Non-fungible Tokens) seem to have exploded out of the ether this 
 </table>
 
 <br>
-
-## Challenges we ran into
-- Building an NFT website was challenging since it was our first time experiencing Solidity. We have read the docs regarding the concept of Solidity, Smart Contract, DApp, and BlockChain in general and referred to some YouTube videos to implement the NFT backend part.
-
-- In addition to constructing the NFT backend portion, connecting React frontend part to the backend was struggling. We have utilized Charkre UI in order to reduce some time to design the web frontend and Web3.js to connect both ends.
- 
-## Accomplishments that we're proud of
-- We are proud that we could implement a fully functioning web application that the user can mint, set a price, sell, and buy their NFT with a few clicks.
-
-- We are proud that we collaborated utilizing Git and GitHub for the team project and be part of USF's 4th Hackathon, participating in a team project and several workshops and managing the limited time.
-
-
-## What we learned
-- We were able to understand how BlockChain works in the backend by doing debugging on Remix Ethereum IDE
-
-- We were able to know how to work on a project as a group (utilizing Git and GitHub - creating branch, merge, pull request, etc)
-
-## What's next for Bullary
-- More functions
-  - Users can upload their own NFT artworks on the web app
-  - User Registration Backend
-    1. Users can manage their NFT artworks (adding comments, product explanation, etc)
-    2. Users can view other's NFT artworks
-    3. Users can create their personalized gallery with their owned NFTs.
