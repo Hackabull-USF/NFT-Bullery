@@ -138,8 +138,8 @@ On Ethereum, smart contracts are accessible and transparent – like open APIs �
 
 ## ​:six:​ What We Learned
 ### Challenges we ran into
-- Building an NFT website was challenging since it was our first time experiencing Solidity. We have read the docs regarding the concept of Solidity, Smart Contract, DApp, and BlockChain in general and referred to some YouTube videos to implement the NFT backend part.
-- In addition to constructing the NFT backend portion, connecting React frontend part to the backend was struggling. We have utilized Charkre UI in order to reduce some time to design the web frontend and Web3.js to connect both ends.
+- Building an NFT website was challenging since it was our first time experiencing Solidity. We have read the docs regarding the concept of Solidity, Smart Contract, DApp, and BlockChain in general and referred to some YouTube videos to implement the NFT blockchain part.
+- In addition to constructing the NFT blockchain portion, connecting React frontend part to the blockchain was struggling. We have utilized Charkre UI in order to reduce some time to design the web frontend and Web3.js to connect both ends.
  
 ### Accomplishments that we're proud of
 - We are proud that we could implement a fully functioning web application that the user can mint, set a price, sell, and buy their NFT with a few clicks.
