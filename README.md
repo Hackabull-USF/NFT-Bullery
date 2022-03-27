@@ -108,6 +108,7 @@ On Ethereum, smart contracts are accessible and transparent – like open APIs �
 ```
 
 [📂 MintAnimalToken.sol](https://github.com/Hackabull2022/NFT-Bullery/wiki/MintAnimalToken.sol)
+<br>
 [📂 SaleAnimalToken.sol](https://github.com/Hackabull2022/NFT-Bullery/wiki/SaleAnimalToken.sol)
 <br>
 
