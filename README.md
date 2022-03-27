@@ -6,6 +6,7 @@
 
 - USF 4th Hackabull **Team Bullery**​
 - Period : `2022.03.26` ~ `2022.03.27`
+- [Deployment Web App Page](https://hackabull2022.github.io/NFT-Bullery/): Make sure to install MetaMask Chrome Extension first!
 
 <br>
 
